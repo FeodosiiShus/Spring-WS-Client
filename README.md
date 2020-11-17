@@ -1,0 +1,2 @@
+This project for my university course, so it seconds part of Spring-WS application, and I create a client for my Spring-WS service. It contains 5 endpoints for request and response data from web service which I create in previous part.
+Link to first project - <a href="https://github.com/FeodosiiShus/Spring-WS-Fitness-Club">Fitness Club Spring-WS</a>
